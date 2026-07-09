@@ -1,0 +1,19 @@
+# Secrets — niemals committen
+.env
+*.key
+.zshrc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+
+# Betriebsdaten der Installation (falls lokal generiert)
+overthinking_memory.txt
+usb_full.txt
+usb_ids.txt
